@@ -1,0 +1,102 @@
+.postcontainer
+{
+    width: 50%;
+    border: 1px solid black;
+    padding: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: auto;
+}
+
+.posthead
+{
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+}
+
+.postbottom{
+    height: 30px;
+    margin-top: 7px;
+    border: 1px solid black;
+ }
+
+.actionbtn
+{
+    float: left;
+    height: 30px;
+    width: 33.33%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+button{
+    height: 30px;
+    width: 100%;
+}
+
+
+
+
+img{
+    height: auto;
+    width: auto;
+    max-width:98%;
+    max-height:98%;
+
+}
+
+.postreveiw{
+    height: 30px;
+    padding: 5px 10px 0px 10px;
+}
+
+
+.likesno
+{
+    float: left;
+}
+
+.commentsno
+{
+    float: right;
+}
+
+.postcomments
+{
+    padding: 10px 0px 0px 0px;
+    display: none;
+}
+
+
+.comment
+{
+    width: 90%;
+    float: right;
+    padding-left: 2%;
+
+}
+.commentbase
+{
+    width: 100%;
+    border: 1px solid black;
+
+}
+
+.commentername
+{
+    font-weight: 800;
+}
+
+.reply
+{
+    width: 90%;
+}
+.newcomment
+{
+    width: 100%;
+}
+.base{
+    width: 100%
+}
